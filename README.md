@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @FrankGalvez-Analyst
-- 👀 I’m interested in new technologies, business intelligence tools, and exploring how data can simplify complex decision-making processes.
-- 🌱 I’m currently expanding my knowledge in SQL and beginning to learn Python, aiming to enhance my data analysis and manipulation skills. Stay tuned for regular updates on my latest projects showcasing these skills.  
-- 💞️ I’m looking to collaborate on projects in the realms of aviation, history, and new technologies, particularly with fellow analysts who share similar interests. 
-- 📫 How to reach me: Connect with me on LinkedIn! 
-- ⚡ Fun fact: I love traveling and exploring new places. During my visits, I immerse myself in the local culture, whether it's hiking through renowned trails or cooking and tasting authentic local cuisine. Each journey is a new adventure! 
+- 👋 Hi, I’m @FrankGalvez-Data  
+- 👀 I’m passionate about ***data analytics, financial analysis, and business intelligence***, using data to simplify complex decision-making.  
+- 🌱 I’m currently deepening my expertise in ***SQL, Python, and Excel*** to enhance my analytical, financial modeling, and automation skills.  
+- 📊 My projects focus on ***financial analysis, variance analysis, business intelligence, business analysis, and automation***, showcasing my ability to extract insights and drive efficiency through data.  
+- 🤝 I’m looking to collaborate on ***data-driven projects*** in ***finance, business intelligence, and automation*** with like-minded professionals.  
+- 📫 How to reach me: **[Connect with me on LinkedIn!](#)**  
+- ⚡ Fun fact: I love **traveling and exploring new places**—whether it’s **hiking through renowned trails or experiencing local cuisine,** each journey is a new adventure!  
 
 <!---
 FrankGalvez-Analyst/FrankGalvez-Analyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
